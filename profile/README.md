@@ -18,7 +18,7 @@
 
 ## What is DYXY
 
-DYXY is an onchain aggregator. It connects the deepest liquidity venues and protocols across eight networks into a single interface, so you can trade, automate and earn without switching apps. You trade from your own wallet and sign every transaction yourself.
+DYXY is an onchain aggregator. It connects the deepest liquidity venues and protocols across eight networks into a single interface, so you can trade, automate and earn without switching apps. Deposit once into an isolated trading balance and trade perps or run bots instantly, with no wallet pop-up for every order.
 
 **Networks:** Ethereum · BNB Chain · Solana · Arbitrum · Base · HyperEVM · Avalanche · Robinhood Chain
 
