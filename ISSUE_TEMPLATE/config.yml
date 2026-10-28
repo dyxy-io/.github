@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://docs.dyxy.io
+    about: Guides and answers for every DYXY product.
+  - name: Report a security vulnerability
+    url: https://github.com/dyxy-io/.github/security/advisories/new
+    about: Please report security issues privately, not as a public issue.
+  - name: Announcements
+    url: https://t.me/DYXY_Announcements
+    about: Official DYXY news and updates.

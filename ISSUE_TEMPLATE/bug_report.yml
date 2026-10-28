@@ -1,0 +1,73 @@
+name: Bug report
+description: Something on DYXY doesn't work as expected.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping us improve DYXY. **Never share your seed phrase or private key**, here or anywhere.
+        For security vulnerabilities, use private reporting instead of this form.
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      options:
+        - Swap
+        - Perps V1
+        - Perps V2
+        - Degen mode
+        - Stocks
+        - Trading bots
+        - Pools
+        - Staking
+        - Lend
+        - Referrals
+        - Portfolio
+        - Docs
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: network
+    attributes:
+      label: Network
+      options:
+        - Ethereum
+        - BNB Chain
+        - Solana
+        - Arbitrum
+        - Base
+        - HyperEVM
+        - Avalanche
+        - Robinhood Chain
+        - Not network-specific
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Go to ...
+        2. Click ...
+        3. See ...
+  - type: input
+    id: tx
+    attributes:
+      label: Transaction hash (optional)
+      description: If a transaction was involved, paste its hash or explorer link.
+  - type: input
+    id: environment
+    attributes:
+      label: Wallet, browser and device
+      placeholder: MetaMask 12.x, Chrome 130, macOS
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Drag and drop images here.
