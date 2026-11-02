@@ -21,7 +21,7 @@
 
 ## What is DYXY
 
-DYXY is an onchain aggregator. It connects the deepest liquidity venues and protocols across eight networks into a single interface, so you can trade, automate and earn without switching apps. Deposit once into an isolated trading balance and trade perps or run bots instantly, with no wallet pop-up for every order.
+DYXY is an onchain aggregator. It connects the deepest liquidity venues and protocols across 8 networks into a single interface, so you can trade, automate and earn without switching apps.
 
 **Networks:** Ethereum · BNB Chain · Solana · Arbitrum · Base · HyperEVM · Avalanche · Robinhood Chain
 
@@ -29,12 +29,12 @@ DYXY is an onchain aggregator. It connects the deepest liquidity venues and prot
 
 | | Product | What it does |
 | --- | --- | --- |
-| **Trade** | [Swap](https://docs.dyxy.io/trade/swap/overview) | DEX aggregation with market, limit and TWAP orders across eight networks |
-| | [Perps](https://docs.dyxy.io/trade/perps/overview) | Perpetual futures on Hyperliquid: up to 100x in V1 (liquidity pool) and V2 (order book), up to 1000x on BTC and ETH in Degen mode |
-| | [Stocks](https://docs.dyxy.io/trade/stocks/overview) | Tokenized US stocks from Ondo, xStocks, bStocks, Robinhood and Coinbase, tradable 24/7 |
-| **Automate** | [Trading bots](https://docs.dyxy.io/bots/overview) | DCA and Grid strategies on spot or with leverage, executed on Hyperliquid |
+| **Trade** | [Swap](https://docs.dyxy.io/trade/swap/overview) | DEX aggregation with market, limit and TWAP orders across 8 networks |
+| | [Perps](https://docs.dyxy.io/trade/perps/overview) | Perpetuals on HyperEVM: up to 100x in V1 (liquidity pool) and V2 (order book), up to 1000x on BTC and ETH in Degen mode |
+| | [Stocks](https://docs.dyxy.io/trade/stocks/overview) | Tokenized US stocks from Ondo, xStocks and Robinhood, tradable 24/7 |
+| **Automate** | [Trading bots](https://docs.dyxy.io/bots/overview) | DCA and Grid strategies on spot or with leverage, executed on HyperEVM |
 | **Earn** | [Pools](https://docs.dyxy.io/earn/pools/overview) | Concentrated liquidity on PancakeSwap, Uniswap and Aerodrome |
-| | [Staking](https://docs.dyxy.io/earn/staking/overview) | Native, liquid and pooled staking (SOL, HYPE, AVAX, mSOL, osETH, sAVAX, ETH via StakeWise) |
+| | [Staking](https://docs.dyxy.io/earn/staking/overview) | Native (SOL, HYPE, AVAX), liquid (mSOL, osETH, sAVAX) and pooled ETH staking |
 | | [Lend](https://docs.dyxy.io/earn/lend/overview) | Supply and borrow through Aave, Morpho, Kamino and Fluid |
 | **Grow** | [Referrals](https://docs.dyxy.io/referrals/overview) | 10% off perps and bot fees for invited traders, 30–50% of fees for referrers |
 | **Track** | [Portfolio](https://docs.dyxy.io/portfolio/overview) | Cross-chain balances, positions, orders, yields and one-click claims |
@@ -42,7 +42,7 @@ DYXY is an onchain aggregator. It connects the deepest liquidity venues and prot
 ## Built with
 
 <p>
-  <a href="https://hyperliquid.xyz">Hyperliquid</a> ·
+  <a href="https://hyperliquid.xyz">HyperEVM</a> ·
   <a href="https://pancakeswap.finance">PancakeSwap</a> ·
   <a href="https://uniswap.org">Uniswap</a> ·
   <a href="https://aerodrome.finance">Aerodrome</a> ·
