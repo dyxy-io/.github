@@ -29,15 +29,15 @@ DYXY is an onchain aggregator. It connects the deepest liquidity venues and prot
 
 | | Product | What it does |
 | --- | --- | --- |
-| **Trade** | [Swap](https://docs.dyxy.io/trade/swap/overview) | DEX aggregation with market, limit and TWAP orders across 8 networks |
-| | [Perps](https://docs.dyxy.io/trade/perps/overview) | Perpetuals on HyperEVM: up to 100x in V1 (liquidity pool) and V2 (order book), up to 1000x on BTC and ETH in Degen mode |
-| | [Stocks](https://docs.dyxy.io/trade/stocks/overview) | Tokenized US stocks from Ondo, xStocks and Robinhood, tradable 24/7 |
-| **Automate** | [Trading bots](https://docs.dyxy.io/bots/overview) | DCA and Grid strategies on spot or with leverage, executed on HyperEVM |
-| **Earn** | [Pools](https://docs.dyxy.io/earn/pools/overview) | Concentrated liquidity on PancakeSwap, Uniswap and Aerodrome |
-| | [Staking](https://docs.dyxy.io/earn/staking/overview) | Native (SOL, HYPE, AVAX), liquid (mSOL, osETH, sAVAX) and pooled ETH staking |
-| | [Lend](https://docs.dyxy.io/earn/lend/overview) | Supply and borrow through Aave, Morpho, Kamino and Fluid |
-| **Grow** | [Referrals](https://docs.dyxy.io/referrals/overview) | 10% off perps and bot fees for invited traders, 30–50% of fees for referrers |
-| **Track** | [Portfolio](https://docs.dyxy.io/portfolio/overview) | Cross-chain balances, positions, orders, yields and one-click claims |
+| **Trade** | [Swap](https://app.dyxy.io/trade/swap) | DEX aggregation with market, limit and TWAP orders across 8 networks |
+| | [Perps](https://app.dyxy.io/trade/perps) | Perpetuals on HyperEVM: up to 100x in V1 (liquidity pool) and V2 (order book), up to 1000x on BTC and ETH in Degen mode |
+| | [Stocks](https://app.dyxy.io/trade/stocks) | Tokenized US stocks from Ondo, xStocks and Robinhood, tradable 24/7 |
+| **Automate** | [Trading bots](https://app.dyxy.io/trading-bots) | DCA and Grid strategies on spot or with leverage, executed on HyperEVM |
+| **Earn** | [Pools](https://app.dyxy.io/earn/pools) | Concentrated liquidity on PancakeSwap, Uniswap and Aerodrome |
+| | [Staking](https://app.dyxy.io/earn/staking) | Native (SOL, HYPE, AVAX), liquid (mSOL, osETH, sAVAX) and pooled ETH staking |
+| | [Lend](https://app.dyxy.io/earn/lend) | Supply and borrow through Aave, Morpho, Kamino and Fluid |
+| **Grow** | [Referrals](https://app.dyxy.io/referrals) | 10% off perps and bot fees for invited traders, 30–50% of fees for referrers |
+| **Track** | [Portfolio](https://app.dyxy.io/portfolio) | Cross-chain balances, positions, orders, yields and one-click claims |
 
 ## Built with
 
