@@ -1,1 +1,60 @@
-# .github
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://docs.dyxy.io/logo/dark.svg">
+    <img src="https://docs.dyxy.io/logo/light.svg" alt="DYXY" height="56">
+  </picture>
+</p>
+
+<p align="center">
+  <b>Everything onchain, in one place.</b><br>
+  Swaps, perps, tokenized stocks, trading bots, lending and staking.
+</p>
+
+<p align="center">
+  <a href="https://app.dyxy.io">App</a> ·
+  <a href="https://docs.dyxy.io">Docs</a> ·
+  <a href="https://x.com/DYXYhq">X</a> ·
+  <a href="https://t.me/DYXY_Announcements">Telegram</a>
+</p>
+
+---
+
+## What is DYXY
+
+DYXY is an onchain aggregator. It connects the deepest liquidity venues and protocols across 8 networks into a single interface, so you can trade, automate and earn without switching apps.
+
+**Networks:** Ethereum · BNB Chain · Solana · Arbitrum · Base · HyperEVM · Avalanche · Robinhood Chain
+
+## Products
+
+| | Product | What it does |
+| --- | --- | --- |
+| **Trade** | [Swap](https://app.dyxy.io/trade/swap) | DEX aggregation with market, limit and TWAP orders across 8 networks |
+| | [Perps](https://app.dyxy.io/trade/perps) | Perpetuals on HyperEVM: up to 100x in V1 (liquidity pool) and V2 (order book), up to 1000x on BTC and ETH in Degen mode |
+| | [Stocks](https://app.dyxy.io/trade/stocks) | Tokenized US stocks from Ondo, xStocks and Robinhood, tradable 24/7 |
+| **Automate** | [Trading bots](https://app.dyxy.io/trading-bots) | DCA and Grid strategies on spot or with leverage, executed on HyperEVM |
+| **Earn** | [Pools](https://app.dyxy.io/earn/pools) | Concentrated liquidity on PancakeSwap, Uniswap and Aerodrome |
+| | [Staking](https://app.dyxy.io/earn/staking) | Native (SOL, HYPE, AVAX), liquid (mSOL, osETH, sAVAX) and pooled ETH staking |
+| | [Lend](https://app.dyxy.io/earn/lend) | Supply and borrow through Aave, Morpho, Kamino and Fluid |
+| **Grow** | [Referrals](https://app.dyxy.io/referrals) | 10% off perps and bot fees for invited traders, 30–50% of fees for referrers |
+| **Track** | [Portfolio](https://app.dyxy.io/portfolio) | Cross-chain balances, positions, orders, yields and one-click claims |
+
+## Built with
+
+<p>
+  <a href="https://hyperliquid.xyz">HyperEVM</a> ·
+  <a href="https://pancakeswap.finance">PancakeSwap</a> ·
+  <a href="https://uniswap.org">Uniswap</a> ·
+  <a href="https://aerodrome.finance">Aerodrome</a> ·
+  <a href="https://stakewise.io">StakeWise</a> ·
+  <a href="https://aave.com">Aave</a> ·
+  <a href="https://morpho.org">Morpho</a> ·
+  <a href="https://kamino.com">Kamino</a> ·
+  <a href="https://fluid.io">Fluid</a>
+</p>
+
+## Security
+
+Found a vulnerability? Please report it privately and don't open a public issue. See our [security policy](https://github.com/dyxy-io/.github/blob/main/SECURITY.md).
+
+<sub>DYXY will never DM you first or ask for your seed phrase. Only trust links from <a href="https://docs.dyxy.io/resources/links">docs.dyxy.io/resources/links</a>.</sub>
